@@ -1,0 +1,18 @@
+[garden]
+  title   = 'garden-bed'
+  root    = 'i.bonsai'
+  attrs   = 'caml'
+
+[doc]
+  [doc.kind]
+    [doc.kind.doc]
+      path   = '/'
+      color  = '#3e5c50'
+    [doc.kind.zombie]
+      emoji = '🧟'
+      color = '#959DA5'
+    [doc.kind.template]
+      path   = '/template/'
+      prefix = 't.' # '+'
+      emoji  = '🧩'
+      color  = '#F8F0E3'

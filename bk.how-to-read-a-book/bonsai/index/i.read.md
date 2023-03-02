@@ -1,0 +1,53 @@
+: id    :: DzrLdsx0ifAjcxEXI2Mlf
+: ctime :: 2023-02-15 23:01:28 -05:00
+: mtime :: 2023-02-24 21:04:54 -05:00
+: vtime :: 2023-02-24 21:04:54 -05:00
+: title :: reading index
+: tldr  :: ""
+
+
+- [[read]]
+  - [[demanding-reader]]
+    - [[active-reading]]
+      - [[reading-comprehension]]
+      - [[the-art-of-reading]]
+  - [[reading-goals]]
+  - [[4-levels-of-reading]]
+    - [[elementary-reading]]
+      - [[reading-readiness]]
+      - [[word-mastery]]
+      - [[vocab-context]]
+      - [[mature-reader]]
+    - [[inspectional-reading]]
+      - [[skimming]]
+      - [[superficial-reading]]
+    - [[analytical-reading]]
+      - [[criticize]]
+        - [[criticism-etiquette]]
+          - [[seek-first-to-understand]]
+          - [[put-truth-first]]
+          - [[critical-reasons]]
+        - [[criticize-unsound-argument]]
+          - [[illogical-argument]]
+          - [[incomplete-argument]]
+          - [[misinformed-argument]]
+          - [[uninformed-argument]]
+      - [[interpret]]
+        - [[come-to-terms]]
+          - [[find-key-sentences--derive-propositions]]
+          - [[find-key-words--derive-senses]]
+        - [[authors-solution]]
+        - [[compose-argument]]
+      - [[outline]]
+        - [[classify-kind]]
+        - [[find-n-order-parts]]
+        - [[authors-problem]]
+        - [[summarize-unity]]
+    - [[syntopical-reading]]
+      - [[prepare-bibliography]]
+      - [[inspect-passages]]
+      - [[clarify-qs--est-neutral-propositions]]
+      - [[est-neutral-terms--bring-authors]]
+      - [[identify-controversial-issues]]
+      - [[analyze-discussion]]
+

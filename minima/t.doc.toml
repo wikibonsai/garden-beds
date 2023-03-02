@@ -1,0 +1,21 @@
+[default]
+path   = "/"
+color  = "#31AF31"
+
+[index]
+path   = "/bonsai/index/"
+prefix = "i."
+emoji  = "🗄"
+color  = "#F0C61F"
+# emoji  = "🪵" ; bonsai.trunk
+
+[entry]
+path   = "/bonsai/entries/"
+emoji  = "🏷"
+color  = "#31AF31"
+# emoji  = "🍃"; bonsai.leaf
+
+[book]
+path   = "/book/"
+prefix = "bk."
+emoji  = "📚"
