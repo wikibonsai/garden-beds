@@ -6,3 +6,14 @@ This repo is a collection of starter notes for markdown-based personal knowledge
 
 🪴 🛏 Start gardening from a garden bed for a [WikiBonsai](https://github.com/wikibonsai/wikibonsai) digital garden.
 
+## Getting Started
+
+1. Clone this repo by running the following from the command line:
+
+```
+git clone git@github.com:wikibonsai/garden-beds.git
+```
+  
+3. Select a folder from this project and copy/paste it into the target location for note-taking.
+
+4. Open the copy/pasted folder in [vscode-wikibonsai](https://github.com/wikibonsai/vscode-wikibonsai) or [tendr-cli](https://github.com/wikibonsai/tendr-cli) and start note-taking! 🌱
