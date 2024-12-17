@@ -16,4 +16,4 @@ git clone git@github.com:wikibonsai/garden-beds.git
   
 3. Select a folder from this project and copy/paste it into the target location for note-taking.
 
-4. Open the copy/pasted folder in [vscode-wikibonsai](https://github.com/wikibonsai/vscode-wikibonsai) or [tendr-cli](https://github.com/wikibonsai/tendr-cli) and start note-taking! 🌱
+4. Open the copy/pasted folder in [vscode-tendr](https://github.com/wikibonsai/vscode-tendr) or [tendr-cli](https://github.com/wikibonsai/tendr-cli) and start note-taking! 🌱
