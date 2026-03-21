@@ -1,0 +1,13 @@
+# relationship types
+
+types = [
+  # name                 kind           computed        sync
+  { name = "antonym"   , kind = "attr",                  sync = "antonym"  },
+  { name = "ctime"     , kind = "attr", computed = true                    },
+  { name = "id"        , kind = "attr", computed = true                    },
+  { name = "mtime"     , kind = "attr", computed = true                    },
+  { name = "synonym"   , kind = "attr",                  sync = "synonym"  },
+  { name = "title"     , kind = "attr"                                     },
+  { name = "tldr"      , kind = "attr"                                     },
+  { name = "vtime"     , kind = "attr", computed = true                    },
+]

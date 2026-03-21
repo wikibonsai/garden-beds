@@ -1,11 +1,13 @@
 [garden]
   title   = 'garden-bed'
   root    = 'i.bonsai'
+
+[format]
   attrs   = 'caml'
 
 [doc]
   [doc.kind]
-    [doc.kind.doc]
+    [doc.kind.default]
       path   = '/'
       color  = '#3e5c50'
     [doc.kind.zombie]

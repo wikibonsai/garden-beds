@@ -1,11 +1,16 @@
 [garden]
   title   = 'garden-bed'
   root    = 'i.bonsai'
-  attrs   = 'caml'
+
+[format]
+  attrs       = 'caml'
+  mkdn_bullet = 'dash'
+  indent_kind = 'space'
+  indent_size = 2
 
 [doc]
   [doc.kind]
-    [doc.kind.doc]
+    [doc.kind.default]
       path   = '/'
       color  = '#3e5c50'
     [doc.kind.zombie]

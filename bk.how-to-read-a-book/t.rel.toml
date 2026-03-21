@@ -1,0 +1,32 @@
+# relationship types
+
+types = [
+  # name                    kind           computed        sync
+  { name = "alias"        , kind = "attr"                                     },
+  { name = "author"       , kind = "attr"                                     },
+  { name = "based-on"     , kind = "attr"                                     },
+  { name = "ctime"        , kind = "attr", computed = true                    },
+  { name = "do-first"     , kind = "attr"                                     },
+  { name = "habit"        , kind = "attr"                                     },
+  { name = "how-to-build" , kind = "attr"                                     },
+  { name = "id"           , kind = "attr", computed = true                    },
+  { name = "include"      , kind = "attr"                                     },
+  { name = "kind"         , kind = "attr"                                     },
+  { name = "leads-to"     , kind = "attr"                                     },
+  { name = "levels"       , kind = "attr"                                     },
+  { name = "mtime"        , kind = "attr", computed = true                    },
+  { name = "pairs-with"   , kind = "attr"                                     },
+  { name = "part"         , kind = "attr"                                     },
+  { name = "prereq"       , kind = "attr"                                     },
+  { name = "related"      , kind = "attr"                                     },
+  { name = "require"      , kind = "attr"                                     },
+  { name = "rule"         , kind = "attr"                                     },
+  { name = "stage"        , kind = "attr"                                     },
+  { name = "step"         , kind = "attr"                                     },
+  { name = "subtitle"     , kind = "attr"                                     },
+  { name = "synonym"      , kind = "attr",                  sync = "synonym"  },
+  { name = "title"        , kind = "attr"                                     },
+  { name = "tldr"         , kind = "attr"                                     },
+  { name = "type"         , kind = "attr"                                     },
+  { name = "vtime"        , kind = "attr", computed = true                    },
+]

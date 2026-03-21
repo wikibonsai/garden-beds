@@ -1,3 +1,10 @@
+type_tree = """
+default
+    index
+    entry
+    book
+"""
+
 [default]
 path   = "/"
 color  = "#31AF31"
