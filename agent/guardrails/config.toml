@@ -1,0 +1,68 @@
+[garden]
+  title   = "agent-guardrails"
+  root    = "i.guardrails"
+  index   = "file"
+  confirm = true
+  save    = "auto"
+
+[auth]
+  mode     = "agent"
+  owner    = ""
+  agent    = ""
+  password = false
+
+[format]
+  case_title  = "Title Case"
+  case_file   = "kabob-case"
+  mkdn_bullet = "dash"
+  indent_kind = "space"
+  indent_size = 2
+  attrs       = "caml"
+
+[doc]
+  [doc.kind]
+    [doc.kind.default]
+      path  = "/"
+      color = "#3e5c50"
+    [doc.kind.template]
+      path   = "/template/"
+      prefix = "t."
+      emoji  = "🧩"
+      color  = "#F8F0E3"
+    [doc.kind.zombie]
+      emoji = "🧟"
+      color = "#959DA5"
+    [doc.kind.media]
+      path = "/media/"
+  [doc.status]
+    [doc.status.orphan]
+      color = ""
+    [doc.status.isolate]
+      color = ""
+
+[rel]
+  [rel.kind]
+    [rel.kind.fam]
+      [rel.kind.fam.parent]
+        sync = "hypernym"
+      [rel.kind.fam.child]
+        sync = "hyponym"
+    [rel.kind.ref]
+      sync = ['synonym', 'antonym']
+
+[attr]
+  [attr.id]
+    alphabet = ""
+    size     = 21
+  [attr.update]
+    open = "open"
+    [attr.update.timestamp]
+      create    = "ctime"
+      modified  = "mtime"
+      viewed    = "vtime"
+      published = "ptime"
+    [attr.update.date]
+      create    = "cdate"
+      modified  = "mdate"
+      viewed    = "vdate"
+      published = "pdate"

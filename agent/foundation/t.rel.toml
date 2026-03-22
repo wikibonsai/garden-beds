@@ -1,0 +1,12 @@
+types = [
+  # name                          kind           computed        sync
+  { name = "antonym"            , kind = "attr",                  sync = "antonym"  },
+  { name = "ctime"              , kind = "attr", computed = true                    },
+  { name = "hypernym"           , kind = "attr",                  sync = "hyponym"  },
+  { name = "hyponym"            , kind = "attr",                  sync = "hypernym" },
+  { name = "id"                 , kind = "attr", computed = true                    },
+  { name = "mtime"              , kind = "attr", computed = true                    },
+  { name = "synonym"            , kind = "attr",                  sync = "synonym"  },
+  { name = "title"              , kind = "attr"                                     },
+  { name = "tldr"               , kind = "attr"                                     },
+]

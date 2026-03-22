@@ -1,0 +1,23 @@
+type_tree = """
+default
+    index
+    entry
+"""
+
+[default]
+path  = "/"
+color = "#3e5c50"
+attrs = ['id', 'ctime', 'mtime']
+
+[index]
+path   = "/index/"
+prefix = "i."
+emoji  = "🗄"
+color  = "#F0C61F"
+attrs  = []
+
+[entry]
+path  = "/entries/"
+emoji = "🏷"
+color = "#3e5c50"
+attrs = ['hypernym', 'hyponym', 'synonym', 'antonym', 'title', 'tldr']
