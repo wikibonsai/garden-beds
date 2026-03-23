@@ -34,10 +34,10 @@
       color = "#959DA5"
     [doc.kind.media]
       path = "/media/"
-  [doc.status]
-    [doc.status.orphan]
+  [doc.state]
+    [doc.state.orphan]
       color = ""
-    [doc.status.isolate]
+    [doc.state.isolate]
       color = ""
 
 [rel]
