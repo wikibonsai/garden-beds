@@ -33,7 +33,7 @@
       emoji = "🧟"
       color = "#959DA5"
     [doc.kind.media]
-      path = "/media/"
+      path = "/_media/"
   [doc.state]
     [doc.state.orphan]
       color = ""
