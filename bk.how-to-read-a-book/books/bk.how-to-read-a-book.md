@@ -1,7 +1,7 @@
 : id       :: 6uuN1mQfQZnksbW3upTET
 : ctime    :: 2023-02-15 22:50:42 -05:00
-: mtime    :: 2023-02-24 21:42:48 -05:00
-: vtime    :: 2023-02-24 21:48:18 -05:00
+: mtime    :: 2026-08-27 19:55:48 -04:00
+: vtime    :: 2026-08-27 19:54:17 -04:00
 : title    :: How To Read A Book
 : subtitle :: The Classic Guide To Intelligent Reading
 : author   :: Mortimer Adler, Charles Van Doren
@@ -12,7 +12,7 @@
 
 ### part 1: the dimensions of reading
 
-#### chapter 1: the activity and art of reading
+#### chapter 1: the activitiy and art of reading
 
 - [[the-art-of-reading]]
 - [[active-reading]]
@@ -69,7 +69,7 @@
 
 ...
 
-- [[how-to-read]]
+- [[how-to-read-kind]]
 
 ### part 4: the ultimate goals of reading
 

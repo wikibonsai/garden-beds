@@ -8,18 +8,21 @@ default
 [default]
 path   = "/"
 color  = "#31AF31"
+attrs  = ['id', 'ctime', 'mtime', 'vtime', 'title', 'tldr']
 
 [index]
-path   = "/bonsai/index/"
+path   = "/index/"
 prefix = "i."
 emoji  = "🗄"
 color  = "#F0C61F"
+attrs  = ['id', 'ctime', 'mtime', 'vtime', 'title']
 # emoji  = "🪵" ; bonsai.trunk
 
 [entry]
-path   = "/bonsai/entries/"
+path   = "/entries/"
 emoji  = "🏷"
 color  = "#31AF31"
+attrs  = ['id', 'ctime', 'mtime', 'vtime', 'title', 'tldr', 'synonym', 'antonym']
 # emoji  = "🍃"; bonsai.leaf
 
 [book]

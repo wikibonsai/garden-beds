@@ -12,14 +12,14 @@ color  = "#31AF31"
 attrs  = ['title', 'id', 'ctime', 'mtime', 'vtime']
 
 [index]
-path   = "/bonsai/index/"
+path   = "/index/"
 prefix = "i."
 color  = "#F0C61F"
 emoji  = "🗄"
 # emoji  = "🪵" ; bonsai.trunk
 
 [entry]
-path   = "/bonsai/entries/"
+path   = "/entries/"
 color  = "#31AF31"
 emoji  = "🏷"
 # emoji  = "🍃"; bonsai.leaf
