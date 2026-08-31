@@ -1,0 +1,37 @@
+## Starter knowledge bases available via `tendr init`.
+## Generated from init.toml files in each garden-bed directory.
+
+[[bed]]
+name        = "agent/minima"
+description = "Minimal agent identity framework"
+audience    = "agent"
+
+[[bed]]
+name        = "agent/foundation"
+description = "Core agent behavior and decision-making concepts"
+audience    = "agent"
+
+[[bed]]
+name        = "agent/guardrails"
+description = "Agent safety, constraints, and ethical guardrails"
+audience    = "agent"
+
+[[bed]]
+name        = "minima"
+description = "Minimal starter template for new knowledge bases"
+audience    = "both"
+
+[[bed]]
+name        = "bk.how-to-read-a-book"
+description = "Reading methodology from How to Read a Book"
+audience    = "user"
+
+[[bed]]
+name        = "bookshelf"
+description = "3D shelf showcase — book/album/film notes with cover attrs shelved by obsmd-shelf"
+audience    = "user"
+
+[[bed]]
+name        = "knowledge-tree"
+description = "Interdisciplinary knowledge taxonomy"
+audience    = "user"

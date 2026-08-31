@@ -1,1 +1,4 @@
 .vscode/
+.tendr/
+.obsidian/
+.DS_Store
