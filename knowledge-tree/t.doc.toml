@@ -1,0 +1,19 @@
+[doc]
+path   = "/"
+color  = "#31AF31"
+
+[index]
+path   = "/bonsai/index/"
+prefix = "i."
+emoji  = "🗄"
+color  = "#F0C61F"
+
+[entry]
+path   = "/bonsai/entries/"
+emoji  = "🏷"
+color  = "#31AF31"
+
+[book]
+path   = "/book/"
+prefix = "bk."
+emoji  = "📚"

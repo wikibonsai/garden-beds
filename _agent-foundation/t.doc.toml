@@ -1,9 +1,3 @@
-type_tree = """
-default
-    index
-    entry
-"""
-
 [default]
 path  = "/"
 color = "#3e5c50"

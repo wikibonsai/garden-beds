@@ -1,4 +1,3 @@
 name        = "_agent-foundation"
 description = "Core agent behavior and decision-making concepts"
-audience    = "agent"
 license     = "MIT"
