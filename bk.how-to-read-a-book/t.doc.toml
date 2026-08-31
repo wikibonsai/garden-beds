@@ -2,6 +2,7 @@ type_tree = """
 doc
     index
     entry
+    daily
     book
 """
 # doctypes

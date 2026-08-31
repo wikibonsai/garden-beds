@@ -2,6 +2,7 @@ type_tree = """
 default
     index
     entry
+    daily
     book
 """
 
@@ -23,6 +24,12 @@ path   = "/entries/"
 emoji  = "🏷"
 color  = "#31AF31"
 attrs  = ['id', 'ctime', 'mtime', 'vtime', 'title', 'tldr', 'synonym', 'antonym']
+# emoji  = "🍃"; bonsai.leaf
+
+[daily]
+path   = "/daily-note/"
+emoji  = "📓"
+attrs  = ['id', 'ctime', 'mtime', 'vtime']
 # emoji  = "🍃"; bonsai.leaf
 
 [book]

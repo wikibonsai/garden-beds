@@ -21,6 +21,7 @@ require      = {}
 rule         = {}
 stage        = { type = "wiki", color = "#B22222" }
 step         = {}
+pdate        = {}
 subtitle     = {}
 antonym      = { type = "wiki", sync = "antonym" }
 synonym      = { type = "wiki", sync = "synonym" }
