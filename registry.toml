@@ -2,17 +2,17 @@
 ## Generated from init.toml files in each garden-bed directory.
 
 [[bed]]
-name        = "agent/minima"
+name        = "_agent-minima"
 description = "Minimal agent identity framework"
 audience    = "agent"
 
 [[bed]]
-name        = "agent/foundation"
+name        = "_agent-foundation"
 description = "Core agent behavior and decision-making concepts"
 audience    = "agent"
 
 [[bed]]
-name        = "agent/guardrails"
+name        = "_agent-guardrails"
 description = "Agent safety, constraints, and ethical guardrails"
 audience    = "agent"
 

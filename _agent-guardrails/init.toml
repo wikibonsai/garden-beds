@@ -1,4 +1,4 @@
-name        = "agent/guardrails"
+name        = "_agent-guardrails"
 description = "Agent safety, constraints, and ethical guardrails"
 audience    = "agent"
 license     = "MIT"
