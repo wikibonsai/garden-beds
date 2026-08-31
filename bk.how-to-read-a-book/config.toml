@@ -2,6 +2,11 @@
   title   = 'garden-bed'
   root    = 'i.bonsai'
 
+[semtree]
+  # candidate/experiment trees live in test/ — they deliberately re-tree the
+  # same node names, so they must not participate in the hierarchy build
+  exclude = ['test']
+
 [format]
   attrs       = 'caml'
   mkdn_bullet = 'dash'

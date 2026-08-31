@@ -1,0 +1,53 @@
+: id    :: FZbNwSIquOx3Cyq8c9xPt
+: ctime :: 2024-08-11 22:48:05 -04:00
+: mtime :: 2024-10-25 20:13:30 -04:00
+: vtime :: 2026-07-05 00:36:49 -04:00
+: title :: 4 levels of reading
+
+
+- [[4-levels-of-reading]]
+  - [[elementary-reading]]
+    - [[reading-readiness]]
+    - [[word-mastery]]
+    - [[vocab-context]]
+    - [[mature-reader]]
+  - [[inspectional-reading]]
+    - [[skimming]]
+    - [[superficial-reading]]
+  - [[analytical-reading]]
+    - [[outline]]
+      - [[classify-kind]]
+      - [[find-n-order-parts]]
+      - [[authors-problem]]
+      - [[summarize-unity]]
+    - [[interpret]]
+      - [[come-to-terms]]
+        - [[find-key-sentences--derive-propositions]]
+        - [[find-key-words--derive-senses]]
+      - [[authors-solution]]
+      - [[compose-argument]]
+        - [[argument]]
+          <!-- kind -->
+          - [[prescriptive-argument]]
+          - [[descriptive-argument]]
+          <!-- parts -->
+          - [[premise]]
+          - [[evidence]]
+          - [[conclusion]]
+    - [[criticize]]
+      - [[criticism-etiquette]]
+        - [[seek-first-to-understand]]
+        - [[put-truth-first]]
+        - [[critical-reasons]]
+      - [[criticize-unsound-argument]]
+        - [[illogical-argument]]
+        - [[incomplete-argument]]
+        - [[misinformed-argument]]
+        - [[uninformed-argument]]
+  - [[syntopical-reading]]
+    - [[prepare-bibliography]]
+    - [[inspect-passages]]
+    - [[est-neutral-terms--bring-authors]]
+    - [[clarify-qs--est-neutral-propositions]]
+    - [[identify-controversial-issues]]
+    - [[analyze-discussion]]

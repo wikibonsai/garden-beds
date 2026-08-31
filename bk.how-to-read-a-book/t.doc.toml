@@ -1,28 +1,38 @@
 type_tree = """
-default
+doc
     index
     entry
     book
 """
+# doctypes
 
-[default]
+[doc]
 path   = "/"
 color  = "#31AF31"
+attrs  = ['title', 'id', 'ctime', 'mtime', 'vtime']
 
 [index]
 path   = "/bonsai/index/"
 prefix = "i."
-emoji  = "🗄"
 color  = "#F0C61F"
+emoji  = "🗄"
 # emoji  = "🪵" ; bonsai.trunk
 
 [entry]
 path   = "/bonsai/entries/"
-emoji  = "🏷"
 color  = "#31AF31"
+emoji  = "🏷"
 # emoji  = "🍃"; bonsai.leaf
+
+[daily]
+path   = "/daily-note/"
+color  = ""
+emoji  = "📓"
+attrs  = ['id', 'ctime', 'mtime', 'vtime']
 
 [book]
 path   = "/books/"
 prefix = "bk."
+color  = "#fb3f2b"
 emoji  = "📚"
+attrs  = ['title', 'subtitle', 'author', 'pdate']
