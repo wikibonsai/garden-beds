@@ -1,0 +1,30 @@
+# attrtypes
+
+alias        = {}
+author       = {}
+based-on     = {}
+ctime        = { compute = "created" }
+do-first     = {}
+habit        = {}
+how-to-build = {}
+id           = { compute = "id" }
+include      = {}
+kind         = {}
+leads-to     = {}
+levels       = {}
+mtime        = { compute = "modified" }
+pairs-with   = {}
+part         = {}
+prereq       = {}
+related      = {}
+require      = {}
+rule         = {}
+stage        = { type = "wiki", color = "#B22222" }
+step         = {}
+subtitle     = {}
+antonym      = { type = "wiki", sync = "antonym" }
+synonym      = { type = "wiki", sync = "synonym" }
+title        = {}
+tldr         = {}
+type         = {}
+vtime        = { compute = "viewed" }

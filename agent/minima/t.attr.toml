@@ -1,0 +1,11 @@
+# attr types
+
+antonym  = { sync = "antonym" }
+ctime    = { compute = "created" }
+hypernym = { sync = "hyponym" }
+hyponym  = { sync = "hypernym" }
+id       = { compute = "id" }
+mtime    = { compute = "modified" }
+synonym  = { sync = "synonym" }
+title    = {}
+tldr     = {}

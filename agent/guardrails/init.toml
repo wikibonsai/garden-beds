@@ -1,0 +1,4 @@
+name        = "agent/guardrails"
+description = "Agent safety, constraints, and ethical guardrails"
+audience    = "agent"
+license     = "MIT"

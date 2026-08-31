@@ -1,0 +1,10 @@
+# attr types
+
+antonym = { sync = "antonym" }
+ctime   = { compute = "created" }
+id      = { compute = "id" }
+mtime   = { compute = "modified" }
+synonym = { sync = "synonym" }
+title   = {}
+tldr    = {}
+vtime   = { compute = "viewed" }

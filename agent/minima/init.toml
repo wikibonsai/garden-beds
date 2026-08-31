@@ -1,0 +1,4 @@
+name        = "agent/minima"
+description = "Minimal agent identity framework"
+audience    = "agent"
+license     = "MIT"

@@ -1,0 +1,4 @@
+name        = "minima"
+description = "Minimal starter template for new knowledge bases"
+audience    = "both"
+license     = "MIT"
