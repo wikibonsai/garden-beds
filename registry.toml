@@ -24,7 +24,3 @@ description = "Reading methodology from How to Read a Book"
 [[bed]]
 name        = "bookshelf"
 description = "3D shelf showcase — book/album/film notes with cover attrs shelved by obsmd-shelf"
-
-[[bed]]
-name        = "knowledge-tree"
-description = "Interdisciplinary knowledge taxonomy"
