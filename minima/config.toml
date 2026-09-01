@@ -1,6 +1,6 @@
 [garden]
   title   = 'garden-bed'
-  root    = 'i.bonsai'
+  root    = 'i.root'
 
 [format]
   attrs   = 'caml'
