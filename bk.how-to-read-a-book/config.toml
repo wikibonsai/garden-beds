@@ -1,6 +1,6 @@
 [garden]
   title   = 'garden-bed'
-  root    = 'root'
+  root    = 'i.root'
 
 [semtree]
   # candidate/experiment trees live in test/ — they deliberately re-tree the
