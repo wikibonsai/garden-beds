@@ -6,5 +6,5 @@
 
 
 - [[bonsai]]
-  - [[i.branch]]
+  - [[branch]]
 

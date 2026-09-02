@@ -5,7 +5,6 @@ attrs  = ['id', 'ctime', 'mtime', 'vtime', 'title', 'tldr']
 
 [index]
 path   = "/index/"
-prefix = "i."
 emoji  = "🗄"
 color  = "#F0C61F"
 attrs  = ['id', 'ctime', 'mtime', 'vtime', 'title']
@@ -26,5 +25,4 @@ attrs  = ['id', 'ctime', 'mtime', 'vtime']
 
 [book]
 path   = "/book/"
-prefix = "bk."
 emoji  = "📚"
