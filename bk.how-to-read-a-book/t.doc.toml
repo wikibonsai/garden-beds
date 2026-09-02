@@ -7,6 +7,7 @@ attrs  = ['title', 'id', 'ctime', 'mtime', 'vtime']
 
 [index]
 path   = "/index/"
+prefix = "i."
 color  = "#F0C61F"
 emoji  = "🗄"
 # emoji  = "🪵" ; bonsai.trunk

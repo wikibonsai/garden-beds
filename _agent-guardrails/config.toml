@@ -1,6 +1,6 @@
 [garden]
   title   = "agent-guardrails"
-  root    = "guardrails"
+  root    = "i.guardrails"
   index   = "file"
   confirm = true
   save    = "auto"

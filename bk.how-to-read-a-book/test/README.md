@@ -58,9 +58,9 @@ remaining relations pushed into web attrs (`: prereq ::`, `: serves ::`,
 
 | | principle | ancestry | edge reads as | strength | weakness |
 |---|---|---|---|---|---|
-| A `candidate-a-categorical.md` | pure taxonomy | Aristotle/Porphyry/Linnaeus | "is a kind of" | retrieval, typing — feeds dynamic-ontology (doctype projection) directly | processes don't taxonomize; steps get shoehorned into "kinds of acts" |
-| B `candidate-b-causal.md` | cumulative skill-descent | Darwin/Musk/Gagné | "grows out of / is built from" | matches Adler's own claim that levels are cumulative; traversal = curriculum | deep nesting; sequential steps read as long chains; kinds lose their shelf |
-| C `candidate-c-teleological.md` | final cause: ends → means | Aristotle's telos; Adler's four questions | "serves the end of" | most faithful to Adler's *spirit* (goals-first); great practice checklist | shared means (active reading serves every end) force arbitrary placement |
+| A `i.candidate-a-categorical.md` | pure taxonomy | Aristotle/Porphyry/Linnaeus | "is a kind of" | retrieval, typing — feeds dynamic-ontology (doctype projection) directly | processes don't taxonomize; steps get shoehorned into "kinds of acts" |
+| B `i.candidate-b-causal.md` | cumulative skill-descent | Darwin/Musk/Gagné | "grows out of / is built from" | matches Adler's own claim that levels are cumulative; traversal = curriculum | deep nesting; sequential steps read as long chains; kinds lose their shelf |
+| C `i.candidate-c-teleological.md` | final cause: ends → means | Aristotle's telos; Adler's four questions | "serves the end of" | most faithful to Adler's *spirit* (goals-first); great practice checklist | shared means (active reading serves every end) force arbitrary placement |
 
 ## recommendation
 

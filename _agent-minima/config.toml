@@ -1,6 +1,6 @@
 [garden]
   title   = "agent-minima"
-  root    = "agent-root"
+  root    = "i.agent-root"
   index   = "file"
   confirm = true
   save    = "auto"
