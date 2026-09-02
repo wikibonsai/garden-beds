@@ -1,6 +1,6 @@
 [garden]
   title   = "agent-foundation"
-  root    = "i.foundation"
+  root    = "foundation"
   index   = "file"
   confirm = true
   save    = "auto"

@@ -387,13 +387,13 @@ Alright, `alright`, alright.
 ```markdown
 | Rabbits | Foxes | Hedgehogs  |
 |:------- |:-----:| ----------:|
-| 25      | 3     | [[i.read]] |
+| 25      | 3     | [[read]] |
 | 100     | 10    | 20         |
 ```
 
 | Rabbits | Foxes | Hedgehogs |
 |:------- |:-----:| ---------:|
-| 25      | 3     | [[i.read]]        |
+| 25      | 3     | [[read]]        |
 | 100     | 10    | 20        |
 
 #### Strikethrough

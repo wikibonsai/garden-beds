@@ -5,7 +5,6 @@ attrs = ['id', 'ctime', 'mtime']
 
 [index]
 path   = "/index/"
-prefix = "i."
 emoji  = "🗄"
 color  = "#F0C61F"
 attrs  = []
