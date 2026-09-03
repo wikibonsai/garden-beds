@@ -6,12 +6,12 @@ attrs = ['id', 'ctime', 'mtime']
 [index]
 path   = "/index/"
 prefix = "i."
-emoji  = "🗄"
+icon   = "🗄"
 color  = "#F0C61F"
 attrs  = []
 
 [entry]
 path  = "/entries/"
-emoji = "🏷"
+icon  = "🏷"
 color = "#3e5c50"
 attrs = ['hypernym', 'hyponym', 'synonym', 'antonym', 'title', 'tldr']

@@ -6,25 +6,25 @@ attrs  = ['id', 'ctime', 'mtime', 'vtime', 'title', 'tldr']
 [index]
 path   = "/index/"
 prefix = "i."
-emoji  = "🗄"
+icon   = "🗄"
 color  = "#F0C61F"
 attrs  = ['id', 'ctime', 'mtime', 'vtime', 'title']
-# emoji  = "🪵" ; bonsai.trunk
+# icon   = "🪵" ; bonsai.trunk
 
 [entry]
 path   = "/entries/"
-emoji  = "🏷"
+icon   = "🏷"
 color  = "#31AF31"
 attrs  = ['id', 'ctime', 'mtime', 'vtime', 'title', 'tldr', 'synonym', 'antonym']
-# emoji  = "🍃"; bonsai.leaf
+# icon   = "🍃"; bonsai.leaf
 
 [daily-note]
 path   = "/daily-note/"
-emoji  = "📓"
+icon   = "📓"
 attrs  = ['id', 'ctime', 'mtime', 'vtime']
-# emoji  = "🍃"; bonsai.leaf
+# icon   = "🍃"; bonsai.leaf
 
 [book]
 path   = "/book/"
 prefix = "bk."
-emoji  = "📚"
+icon   = "📚"

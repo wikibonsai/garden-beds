@@ -27,10 +27,10 @@
     [doc.kind.template]
       path   = "/template/"
       prefix = "t."
-      emoji  = "🧩"
+      icon   = "🧩"
       color  = "#F8F0E3"
     [doc.kind.zombie]
-      emoji = "🧟"
+      icon  = "🧟"
       color = "#959DA5"
     [doc.kind.media]
       path = "/_media/"

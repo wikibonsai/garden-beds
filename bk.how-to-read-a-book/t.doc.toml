@@ -9,24 +9,24 @@ attrs  = ['title', 'id', 'ctime', 'mtime', 'vtime']
 path   = "/index/"
 prefix = "i."
 color  = "#F0C61F"
-emoji  = "🗄"
-# emoji  = "🪵" ; bonsai.trunk
+icon   = "🗄"
+# icon   = "🪵" ; bonsai.trunk
 
 [entry]
 path   = "/entries/"
 color  = "#31AF31"
-emoji  = "🏷"
-# emoji  = "🍃"; bonsai.leaf
+icon   = "🏷"
+# icon   = "🍃"; bonsai.leaf
 
 [daily-note]
 path   = "/daily-note/"
 color  = ""
-emoji  = "📓"
+icon   = "📓"
 attrs  = ['id', 'ctime', 'mtime', 'vtime']
 
 [book]
 path   = "/books/"
 prefix = "bk."
 color  = "#fb3f2b"
-emoji  = "📚"
+icon   = "📚"
 attrs  = ['title', 'subtitle', 'author', 'pdate']

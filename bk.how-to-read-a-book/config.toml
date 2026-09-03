@@ -19,10 +19,10 @@
       path   = '/'
       color  = '#3e5c50'
     [doc.kind.zombie]
-      emoji = '🧟'
+      icon  = '🧟'
       color = '#959DA5'
     [doc.kind.template]
       path   = '/template/'
       prefix = 't.' # '+'
-      emoji  = '🧩'
+      icon   = '🧩'
       color  = '#F8F0E3'
