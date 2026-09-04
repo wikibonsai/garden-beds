@@ -1,10 +1,10 @@
-# garden-beds
+# transplant-starters
 
 [![A WikiBonsai Project](https://img.shields.io/badge/%F0%9F%8E%8B-A%20WikiBonsai%20Project-brightgreen)](https://github.com/wikibonsai/wikibonsai)
 
 Starter knowledge bases for markdown-based PKMs and agent knowledge layers.
 
-🪴 🛏 Transplant a garden bed into a [WikiBonsai](https://github.com/wikibonsai/wikibonsai) digital garden.
+🪴 🛏 Transplant a starter into a [🎋 WikiBonsai](https://github.com/wikibonsai/wikibonsai) digital garden.
 
 ## Getting Started
 
