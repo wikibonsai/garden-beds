@@ -6,14 +6,14 @@ color  = "#31AF31"
 attrs  = ['title', 'id', 'ctime', 'mtime', 'vtime']
 
 [index]
-path   = "/index/"
+path   = "/tree/index/"
 prefix = "i."
 color  = "#F0C61F"
 icon   = "🗄"
 # icon   = "🪵" ; bonsai.trunk
 
 [entry]
-path   = "/entries/"
+path   = "/tree/entries/"
 color  = "#31AF31"
 icon   = "🏷"
 # icon   = "🍃"; bonsai.leaf
